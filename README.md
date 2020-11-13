@@ -2,6 +2,6 @@
 Projet Recherche d'Information - M2 DSC - 2020/2021
 
 ## TEAM
-Solofo RABONARIJAONA
-Ibrahima DIALLO
-Fares DABBEK
+Solofo RABONARIJAONA  
+Ibrahima DIALLO  
+Fares DABBEK  
